@@ -3,6 +3,9 @@ auth.sqlite
 players.sqlite
 ipban.txt
 
+# Mods (usually Git repos)
+worldmods/
+
 # Compiled Lua sources
 luac.out
 
