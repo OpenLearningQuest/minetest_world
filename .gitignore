@@ -1,3 +1,7 @@
+# Security and privacy
+auth.sqlite
+players.sqlite
+
 # Compiled Lua sources
 luac.out
 
