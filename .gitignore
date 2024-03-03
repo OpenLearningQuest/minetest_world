@@ -1,6 +1,7 @@
 # Security and privacy
 auth.sqlite
 players.sqlite
+ipban.txt
 
 # Compiled Lua sources
 luac.out
