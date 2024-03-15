@@ -13,3 +13,6 @@ load_mod_handle_schematics = true
 load_mod_mg_villages = true
 load_mod_cottages = true
 load_mod_manners = true
+load_mod_xdecor = true
+load_mod_mobs_redo = true
+load_mod_mobs_npc = true
